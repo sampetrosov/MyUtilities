@@ -17,8 +17,6 @@ namespace MyUtilities
                 .MinimumLevel.Debug()
                 .WriteTo.LiterateConsole()
                 .CreateLogger();
-
-
         }
     }
 }
